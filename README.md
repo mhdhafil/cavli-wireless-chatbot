@@ -12,3 +12,4 @@
 2. Gemini API for LLM application
 3. SQLite database
 
+> NB: This bot is only to interact with the mentioned SQLite database. you can ask questions related to the database, unrelated questions may lead to show some errors.
